@@ -1,0 +1,6 @@
+ul {
+    display:flex;
+    list-style: none;
+    width:40vw;
+    justify-content: space-evenly;
+}
